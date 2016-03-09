@@ -1,8 +1,8 @@
 deps:
-  @swift build
+	@swift build
 
 run:
-  @./build/debug/App
+	@./build/debug/App
   
 clean:
-  @rm -r .build/
+	@rm -r .build/
