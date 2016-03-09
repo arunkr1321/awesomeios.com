@@ -17,14 +17,19 @@ We use [swiftenv](https://github.com/kylef/swiftenv), is a nice project made by 
 
 after install swift env, run:
 
-`swiftenv install`
+`swiftenv install` or `make deps-install`
 
-then will can use Makefile targets:
+then will can build dependencies:
 
-```sh
-make deps
-make run
-```
+`make deps`
+
+if you get any error, try to run `build` binary file:
+
+`./build`
+
+then start the project:
+
+`make run`
 
 you'll be able to connect on `localhost:8080`
 
