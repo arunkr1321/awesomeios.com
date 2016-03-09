@@ -1,4 +1,4 @@
-# Product Name
+# awesomeios.com
 > A website with all awesome-ios content and more.
 
 [![Swift Version][swift-image]][swift-url]
