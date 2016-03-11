@@ -12,10 +12,9 @@ About [awesome-iOS](http://github.com/vsouza/awesome-ios) : A curated list of aw
 
 ## Development setup
 
+We use [swiftenv](https://github.com/kylef/swiftenv), a nice project made by [@kylef](https://github.com/kylef). 
 
-We use [swiftenv](https://github.com/kylef/swiftenv), is a nice project made by @kylef. 
-
-after install swift env, run:
+after installing `swiftenv`, run:
 
 `swiftenv install` or `make deps-install`
 
