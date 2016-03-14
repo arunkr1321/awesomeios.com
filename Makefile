@@ -5,10 +5,14 @@ deps-install:
 .PHONY: deps
 deps:
 	@swift build
+	@rm -rf Packages/*/Tests
+	@swift build
 
 .PHONY: run
 run:
-	@./.build/debug/App
+	@./build
+	@echo "Running..."
+	@.build/debug/App
   
 .PHONY: clean
 clean:
