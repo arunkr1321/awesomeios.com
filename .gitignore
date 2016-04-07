@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 .DS_Store
 /.build
 /Packages
-/*.xcodeproj
-=======
-Packages
 .build
 *.xcodeproj/*
->>>>>>> ed0379c77462cdcbac2599ec4d5a54b0bd529d8c
