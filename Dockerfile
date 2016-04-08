@@ -2,11 +2,9 @@ FROM swiftdocker/swift:latest
 
 ENV PATH /usr/bin:$PATH
 
-RUN mkdir -p /vapor
-WORKDIR /vapor
-ADD . /vapor
-RUN ./build
+RUN mkdir -p /app
+WORKDIR /app
+ADD . /app
 
+CMD .build/release/awesomeiosdotcom
 EXPOSE 8080
-
-CMD .build/debug/App

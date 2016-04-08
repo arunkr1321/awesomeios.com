@@ -1,1 +1,1 @@
-web: App --port=$PORT
+web: awesomeiosdotcom --port=$PORT
