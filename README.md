@@ -7,7 +7,7 @@
 
 
 About [awesome-iOS](http://github.com/vsouza/awesome-ios) : A curated list of awesome iOS frameworks, libraries, tutorials, Xcode plugins, components and much more. The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services.
-![](https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_logo.png)
+![](header.png)
 
 
 ## Development setup
