@@ -4,7 +4,7 @@
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
-
+[![codebeat badge](https://codebeat.co/badges/c19b47ea-2f9d-45df-8458-b2d952fe9dad)](https://codebeat.co/projects/github-com-vsouza-awesomeios-com)
 
 About [awesome-iOS](http://github.com/vsouza/awesome-ios) : A curated list of awesome iOS frameworks, libraries, tutorials, Xcode plugins, components and much more. The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services.
 ![](header.png)
