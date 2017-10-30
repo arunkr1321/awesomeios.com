@@ -1,1 +1,0 @@
-web: awesomeiosdotcom --port=$PORT
